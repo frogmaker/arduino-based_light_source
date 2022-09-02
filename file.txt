@@ -3,3 +3,4 @@ sth to add
 3rd line
 dalej dodano do linii
 olej
+write sth to file.txt
