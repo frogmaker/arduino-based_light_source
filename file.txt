@@ -4,3 +4,5 @@ sth to add
 dalej dodano do linii
 olej
 write sth to file.txt
+more write sth to file.txt
+stash test
